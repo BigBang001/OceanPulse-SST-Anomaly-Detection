@@ -58,11 +58,14 @@ Created for the **Data Science in Oceanography Undergraduate Summer Program** by
 
 ---
 
-## How to Use
+## ✨ How to Use
 
-1. Clone this repo or download the notebook
-2. Upload both the `.CSV` and `.nc` files
-3. Run `OceanPulse.ipynb` in Google Colab or Jupyter Lab
-4. Explore the SST anomaly plots!
+1. Clone this repo or download the notebook.
+2. Download the required datasets:
+   - [MODIS Aqua SST Snapshot (April 2025)](https://oceancolor.gsfc.nasa.gov/)
+   - [NOAA Monthly Climatology NetCDF (`sst.mnmean.nc`)](https://downloads.psl.noaa.gov/Datasets/noaa.oisst.v2/sst.mnmean.nc)
+3. Place them in the same directory as the notebook.
+4. Run `OceanPulse.ipynb` in Google Colab or Jupyter Lab.
+5. Explore the SST anomaly plots!
 
 ---
