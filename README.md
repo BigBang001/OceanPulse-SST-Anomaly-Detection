@@ -32,6 +32,8 @@ To identify and visualize areas of anomalous warming or cooling in the oceans us
 ### Global SST Anomaly Heatmap
 
 ![SST Anomaly Heatmap](https://github.com/user-attachments/assets/12e7b876-9484-414f-bbc7-2856538e21c3)
+<br>
+<br>
 
 ### Climatological SST vs April 2025 Snapshot
 
