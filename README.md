@@ -58,7 +58,7 @@ Created for the **Data Science in Oceanography Undergraduate Summer Program** by
 
 ---
 
-## ✨ How to Use
+## How to Use
 
 1. Clone this repo or download the notebook.
 2. Download the required datasets:
